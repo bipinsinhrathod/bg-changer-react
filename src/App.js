@@ -24,6 +24,7 @@ function App() {
             style={{ backgroundColor: "green" }}
           >
             Green
+            
           </button>
           <button
             onClick={() => setColor("blue")}
